@@ -1,0 +1,23 @@
+{
+  "name": "typeracer",
+  "version": "0.0.1",
+  "description": "TypeRacer is a game that people can compete on typing speed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-cgw/typeracer.git"
+  },
+  "keywords": [
+    "Typing",
+    "Game"
+  ],
+  "author": "Michael Chen, Rex Gao, Will Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mr-cgw/typeracer/issues"
+  },
+  "homepage": "https://github.com/mr-cgw/typeracer#readme"
+}
